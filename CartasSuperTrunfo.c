@@ -3,4 +3,4 @@
 int main() {
     printf("Carta Super Trunfo")
     
-}
+}printf
